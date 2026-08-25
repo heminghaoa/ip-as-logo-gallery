@@ -6,9 +6,9 @@ A public collection of original, highly simplified mascot logo explorations crea
 
 ## Collection
 
-- 19 full-resolution square PNG files
+- 20 full-resolution square PNG files
 - Native image size: 1254 × 1254 pixels
-- 4 generation reports with prompt and color mappings
+- 5 generation reports with prompt and color mappings
 - One-pass outputs preserved without automatic ranking, rejection, or repair
 
 ## Purple Ghost
@@ -61,6 +61,14 @@ One original personified Mount Fuji-inspired mountain mascot.
 
 ![Mount Fuji Buddy](assets/mount-fuji/fuji-buddy.png)
 
+## Torii Gate Buddy
+
+One original personified torii-gate mascot.
+
+[Generation report](reports/torii.md)
+
+![Torii Gate Buddy](assets/torii/torii-buddy.png)
+
 ## Structure
 
     assets/
@@ -69,6 +77,7 @@ One original personified Mount Fuji-inspired mountain mascot.
         v1/
         v2/
       purple-ghost/
+      torii/
     reports/
 
 ## Notes
