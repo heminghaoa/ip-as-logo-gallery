@@ -6,9 +6,9 @@ A public collection of original, highly simplified mascot logo explorations crea
 
 ## Collection
 
-- 23 full-resolution square PNG files
+- 24 full-resolution square PNG files
 - Native image size: 1254 × 1254 pixels
-- 8 generation reports with prompt and color mappings
+- 9 generation reports with prompt and color mappings
 - One-pass outputs preserved without automatic ranking, rejection, or repair
 
 ## Purple Ghost
@@ -93,12 +93,21 @@ One original personified uppercase Latin letter C mascot.
 
 ![Letter C Buddy](assets/letter-c/c-buddy.png)
 
+## Niu Lai Movie Protagonist Buddy
+
+One user-directed simplified mascot transformation of the protagonist from the film *Niu Lai* (`牛来`), based on a supplied reference still.
+
+[Generation report](reports/niu-lai-protagonist.md)
+
+![Niu Lai Movie Protagonist Buddy](assets/niu-lai-protagonist/niu-lai-protagonist-buddy.png)
+
 ## Structure
 
     assets/
       letter-c/
       mount-fuji/
       nine-tailed-fox/
+      niu-lai-protagonist/
       pink-sea-star/
         v1/
         v2/
