@@ -6,9 +6,9 @@ A public collection of original, highly simplified mascot logo explorations crea
 
 ## Collection
 
-- 22 full-resolution square PNG files
+- 23 full-resolution square PNG files
 - Native image size: 1254 × 1254 pixels
-- 7 generation reports with prompt and color mappings
+- 8 generation reports with prompt and color mappings
 - One-pass outputs preserved without automatic ranking, rejection, or repair
 
 ## Purple Ghost
@@ -85,9 +85,18 @@ One original personified legendary nine-tailed fox-spirit mascot.
 
 ![Nine-Tailed Fox Spirit Buddy](assets/nine-tailed-fox/nine-tailed-fox-buddy.png)
 
+## Letter C Buddy
+
+One original personified uppercase Latin letter C mascot.
+
+[Generation report](reports/letter-c.md)
+
+![Letter C Buddy](assets/letter-c/c-buddy.png)
+
 ## Structure
 
     assets/
+      letter-c/
       mount-fuji/
       nine-tailed-fox/
       pink-sea-star/
