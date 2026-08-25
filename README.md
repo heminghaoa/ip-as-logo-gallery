@@ -6,9 +6,9 @@ A public collection of original, highly simplified mascot logo explorations crea
 
 ## Collection
 
-- 20 full-resolution square PNG files
+- 21 full-resolution square PNG files
 - Native image size: 1254 × 1254 pixels
-- 5 generation reports with prompt and color mappings
+- 6 generation reports with prompt and color mappings
 - One-pass outputs preserved without automatic ranking, rejection, or repair
 
 ## Purple Ghost
@@ -69,6 +69,14 @@ One original personified torii-gate mascot.
 
 ![Torii Gate Buddy](assets/torii/torii-buddy.png)
 
+## Vortex Buddy
+
+One original personified natural vortex and whirlpool mascot.
+
+[Generation report](reports/vortex.md)
+
+![Vortex Buddy](assets/vortex/vortex-buddy.png)
+
 ## Structure
 
     assets/
@@ -78,6 +86,7 @@ One original personified torii-gate mascot.
         v2/
       purple-ghost/
       torii/
+      vortex/
     reports/
 
 ## Notes
