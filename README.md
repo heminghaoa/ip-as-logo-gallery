@@ -6,9 +6,9 @@ A public collection of original, highly simplified mascot logo explorations crea
 
 ## Collection
 
-- 21 full-resolution square PNG files
+- 22 full-resolution square PNG files
 - Native image size: 1254 × 1254 pixels
-- 6 generation reports with prompt and color mappings
+- 7 generation reports with prompt and color mappings
 - One-pass outputs preserved without automatic ranking, rejection, or repair
 
 ## Purple Ghost
@@ -77,10 +77,19 @@ One original personified natural vortex and whirlpool mascot.
 
 ![Vortex Buddy](assets/vortex/vortex-buddy.png)
 
+## Nine-Tailed Fox Spirit Buddy
+
+One original personified legendary nine-tailed fox-spirit mascot.
+
+[Generation report](reports/nine-tailed-fox.md)
+
+![Nine-Tailed Fox Spirit Buddy](assets/nine-tailed-fox/nine-tailed-fox-buddy.png)
+
 ## Structure
 
     assets/
       mount-fuji/
+      nine-tailed-fox/
       pink-sea-star/
         v1/
         v2/
